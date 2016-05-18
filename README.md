@@ -1,1 +1,1 @@
-# SpringBaselines
+# A Collection of sample/baseline Java projects based on spring framework

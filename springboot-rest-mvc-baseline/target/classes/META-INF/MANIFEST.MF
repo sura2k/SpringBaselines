@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Vendor: Pivotal Software, Inc.
-Implementation-Title: springboot-rest-mvc-baseline
-Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: com.sura2k.samples
-Build-Jdk: 1.7.0_67
-Built-By: CCIVO
-Created-By: Maven Integration for Eclipse
-

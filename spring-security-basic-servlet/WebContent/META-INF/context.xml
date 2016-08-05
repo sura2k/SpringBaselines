@@ -1,0 +1,22 @@
+<Context>
+	
+	<Resource name="jdbc/demodb" 
+	      global="jdbc/demodb" 
+	      auth="Container" 
+	      type="javax.sql.DataSource" 
+	      driverClassName="com.mysql.jdbc.Driver" 
+	      url="jdbc:mysql://localhost:3306/demodb" 
+	      username="root" 
+	      password="root"
+	      maxActive="100" 
+	      maxIdle="20" 
+	      minIdle="5" 
+	      maxWait="10000"
+	      validationQuery="select 1"/>
+      
+	<ResourceLink name="jdbc/demodb"
+	                global="jdbc/demodb"
+	                auth="Container"
+	                type="javax.sql.DataSource" />
+
+</Context>

@@ -1,0 +1,10 @@
+.test-btn {
+	background-color: cyan;
+	width: 100px;
+	line-height: 1;
+	font-weght: bold;
+	font-family: verdana;
+    margin-top: 20px;
+    height: 40px;
+    width: 240px;
+}

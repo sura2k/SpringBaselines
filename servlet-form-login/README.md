@@ -1,0 +1,5 @@
+- JSP/Servlet
+- Servlet filters
+- CDI via JBoss Weld
+- Role based
+- Boiler plat security 
